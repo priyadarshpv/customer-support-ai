@@ -1,0 +1,6 @@
+PyPDF2
+numpy
+sentence-transformers
+scikit-learn
+google-generativeai
+semantic-kernel
